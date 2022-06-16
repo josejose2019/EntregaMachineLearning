@@ -11,4 +11,4 @@ Librerías: Las librerías son una herramienta fundamental para consolidar o con
 
 Resultados y conclusiones: Los resultados encontrados para tanto para Train y Validation nos hacen concluir que el algoritmo de vecinos más cercanos y su modelo es el que mejor trabaja para la predicción del suceso de la patología de accidente cerebro vascular, puesto que se ha alcanzado un porcentaje de 95.
 
-Licencia del codigo:
+Licencia del codigo: GNU General Public License v3.0
